@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(201, 85, 197); /* Definido como cor principal */
+    background-color: rgb(255, 0, 247); /* Definido como cor principal */
     color: rgb(0, 0, 0); /* Cor do texto */
     font-family: 'Bai Jamjuree', sans-serif; /* Correção do nome da fonte */
 }
@@ -36,7 +36,7 @@ footer p {
 }
 
 .cartao_conteudo {
-    background-color: var(--card-front-color, rgb(255, 0, 183)); /* Cor com fallback */
+    background-color: var(--card-front-color, rgb(200, 133, 206)); /* Cor com fallback */
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
