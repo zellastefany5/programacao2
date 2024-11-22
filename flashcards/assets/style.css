@@ -1,6 +1,6 @@
 body {
     background-color: rgb(201, 85, 197); /* Definido como cor principal */
-    color: rgb(255, 0, 242); /* Cor do texto */
+    color: rgb(0, 0, 0); /* Cor do texto */
     font-family: 'Bai Jamjuree', sans-serif; /* Correção do nome da fonte */
 }
 
@@ -36,7 +36,7 @@ footer p {
 }
 
 .cartao_conteudo {
-    background-color: var(--card-front-color, rgb(169, 91, 229)); /* Cor com fallback */
+    background-color: var(--card-front-color, rgb(255, 0, 217)); /* Cor com fallback */
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
@@ -45,7 +45,7 @@ footer p {
 }
 
 .cartao_conteudo h3 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 187);
     color: var(--text-color, black); /* Cor com fallback */
     border: 1px solid var(--text-color, black);
     text-align: left;
