@@ -45,7 +45,7 @@ footer p {
 }
 
 .cartao_conteudo h3 {
-    background-color: rgb(255, 0, 149);
+    background-color: rgb(0, 0, 0);
     color: var(--text-color, black); /* Cor com fallback */
     border: 1px solid var(--text-color, black);
     text-align: left;
